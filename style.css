@@ -1,0 +1,84 @@
+ul li {
+
+    list-style: none;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+
+
+header-nav {
+    position: absolute;
+    height: 44px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    display: flex;
+    color: #00000000 80%;
+}
+
+.section {
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    display: flex;
+    text-align: center;
+
+    /* background: #fff */
+}
+
+.phone {
+    position: absolute;
+    width: 665px;
+
+    height: 499px;
+    left: 27.98%;
+    right: 28.04%;
+    top: 237px;
+
+}
+
+.iPhone-14 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.28px;
+    text-align: center;
+    color: #1d1d1f;
+    margin: 0%;
+}
+
+.big-and {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    letter-spacing: 0.11px;
+    text-align: center;
+    color: #1d1d1f;
+}
+
+.learn-btn {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.23px;
+    width: 116.9px;
+    height: 29px;
+    color: #0066cc;
+
+}
+
+.buy-btn {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.23px;
+    width: 50, 68px;
+    height: 29px;
+    color: #0066cc;
+}
